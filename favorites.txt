@@ -7,3 +7,7 @@ list of movies i liked:
 1. Doom
 2. Krishh
 3. Koi mil gaya
+
+List of computer parts:
+1. Monitor
+2. CPU
